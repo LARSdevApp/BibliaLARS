@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Guardado"
+        android:id="@+id/guardado"
+        android:icon="@drawable/ic_baseline_bookmark_24"/>
+    <item android:title="Antiguo"
+        android:id="@+id/antiguo"
+        android:icon="@drawable/ic_baseline_menu_book_24"/>
+    <item android:title="Nuevo"
+        android:id="@+id/nuevo"
+        android:icon="@drawable/ic_baseline_library_books_24"/>
+    <item android:title="Apoyo"
+        android:id="@+id/apoyo"
+        android:icon="@drawable/ic_baseline_thumb_up_alt_24"/>
+</menu>
