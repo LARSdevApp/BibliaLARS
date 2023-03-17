@@ -1,8 +1,8 @@
 package com.lars.biblialars.adapter
 
-import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.ViewGroup
+import androidx.recyclerview.widget.RecyclerView
 import com.lars.biblialars.ListAntiguo
 import com.lars.biblialars.R
 
